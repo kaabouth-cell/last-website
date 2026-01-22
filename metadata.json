@@ -1,0 +1,8 @@
+{
+  "name": "3ichq - The Moroccan Couples Game",
+  "description": "A premium landing page for a romantic card game designed for Moroccan couples to improve communication and spark joy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
